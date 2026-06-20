@@ -7,9 +7,9 @@
 
 <p>It has a custom</p> 
 <ol> 
-  <li>Join Message: <b>[+] PlayerName</b></li> 
-  <li>Leave Message: <b>[-] PlayerName</b></li> 
-  <li>Chat Regex: <b>PlayerName >> {Message}</b></li> 
+  <li>Join Message: <code>§7[§a+§7] §rPlayerName</code></li> 
+  <li>Leave Message: <code>§7[§c-§7] §rPlayerName</code></li> 
+  <li>Chat Regex: <code>PlayerName §7>>§r {Message}</code></li> 
 </ol> 
 
-<p>In the later updates, i'm hoping to make the three i listed be customized through commands.</p>
+<p>In the later updates, i'm hoping to make the 3 i listed be customized.</p>
