@@ -10,3 +10,4 @@
   <li>Leave Message: <b>§7[§c-§7] §rPlayerName</b></li>
   <li>Chat Regex: <b>PlayerName &7>>&r {Message}</b></li>
 </ol>
+<p style="color: orange;">In the later updates, i'm hoping to make the 3 i listed be customized.</p>
