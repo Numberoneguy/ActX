@@ -12,4 +12,4 @@
   <li>Chat Regex: <code>PlayerName §7>>§r {Message}</code></li> 
 </ol> 
 
-<p>In the later updates, i'm hoping to make the 3 i listed be customized.</p>
+<p>In the later updates, i'm hoping to make the three i listed be customized through commands.</p>
