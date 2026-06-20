@@ -12,4 +12,4 @@
   <li>Chat Regex: <b>PlayerName >> {Message}</b></li> 
 </ol> 
 
-$$\color{orange}{\text{In the later updates, i'm hoping to make the 3 i listed be customized.}}$$
+$\color{orange}{\textsf{In the later updates, i'm hoping to make the 3 i listed be customized.}}$
