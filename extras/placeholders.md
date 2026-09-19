@@ -69,8 +69,13 @@
 * `%max_players%` – maximum player limit
 * `%online_ratio%` – online players formatted with max limit (`online/max`)
 * `%slots_left%` – remaining open player slots on server
+* `%staffonline%` – total count of online staff/operators
 * `%ping%` – server connection latency
-* `%tps%` – server ticks per second formatted to 2 decimals (old versions only have one decimal)
+* `%tps%` – server ticks per second formatted to 2 decimals
 * `%uptime%` – server total uptime duration
 * `%host%` – server owner or host name
+* `%relay%` – current LAN relay URI address
+* `%code%` – current active LAN join code
 * `%animation:<id>%` – custom animated text frame placeholder (make on yourself at Options --> ACT --> Animation Stuffs)
+
+_These placeholders can be also used as noted from ActX v1.6.0 on the releases_
