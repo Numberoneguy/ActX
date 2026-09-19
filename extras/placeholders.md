@@ -78,4 +78,4 @@
 * `%code%` – current active LAN join code
 * `%animation:<id>%` – custom animated text frame placeholder (make on yourself at Options --> ACT --> Animation Stuffs)
 
-_These placeholders can be also used as noted from ActX v1.6.0 on the releases_
+_These placeholders can be also used in scoreboard as noted from ActX v1.6.0 on the releases_
