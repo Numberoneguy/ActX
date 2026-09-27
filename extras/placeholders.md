@@ -22,7 +22,10 @@
 * `%dimension%` – current dimension name or id
 * `%world%` – dimension name player is currently in
 * `%day%` – day phase (local `actx.day.phase.*`)
+* `%time%` – in-game clock time, 24-hour `HH:MM` (e.g., `14:32`)
+* `%moon_phase%` – current moon phase (local `actx.moon.phase.*`)
 * `%biome%` – biome name at player position
+* `%light%` – light level at player position
 * `%weather%` – current world weather state (`Storm`, `Rain`, or `Clear`)
 * `%difficulty%` – world difficulty setting name
 * `%player_count_dimension%` – total players currently in the player's current dimension
@@ -41,6 +44,7 @@
 * `%absorption%` – absorption hearts amount
 * `%food%` – food level
 * `%hunger%` – alias of `%food%`
+* `%saturation%` – food saturation level (1 decimal, e.g., `4.2`)
 * `%armor%` – total armor defense value
 * `%xp%` – current experience level
 * `%xp_level%` – alias of `%xp%`
@@ -70,6 +74,7 @@
 * `%online_ratio%` – online players formatted with max limit (`online/max`)
 * `%slots_left%` – remaining open player slots on server
 * `%staffonline%` – total count of online staff/operators
+* `%staff_list%` – comma-separated list of online staff/operator names, or `None`
 * `%ping%` – server connection latency
 * `%tps%` – server ticks per second formatted to 2 decimals
 * `%uptime%` – server total uptime duration
