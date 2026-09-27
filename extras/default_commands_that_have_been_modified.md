@@ -61,3 +61,5 @@ Manage game rules in-game using this basic thing o algo.
   Adds authentication since eaglercraft is a cracked client.
 * **chatMessageLimit** (default: 0)
   Sets a chat message character/rate limit (set to 0 to disable).
+
+  _Also when a player tries to use `/kick` on you. It will prevent the player from kicking the owner and send a error message saying "You can't kick the host!" and this goes for other commands like `/mute`, and `/ban` (people who are operators try to bypass the kick command via command block but I also prevented the command block from kicking the host)_
