@@ -22,7 +22,7 @@ Translation: Hello, i eat pizza
 ```
 * **Language StringTranslator** Translates the usage on commands instead of being hardcoded via StatCollector.
 * **Modified default commands** I modified the `/scoreboard` to able to add prefix and suffix via `/scoreboard teams option prefix/suffix <team_name>`
-* **Server based commands** What I mean by _Server based commands_ is that `/op` `/deop``/ban` `/pardon` exists than just<br> Minecraft's good old `/kick` command.
+* **Server based commands** What I mean by _Server based commands_ is that `/op` `/deop` `/ban` `/pardon` exists than just<br> Minecraft's good old `/kick` command.
 
 I'm missing a lot of stuff but that will do for now.
 I beg you to try it out.
