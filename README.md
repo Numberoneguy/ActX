@@ -15,7 +15,12 @@ This is an Eaglercraft mod with enhanced sandbox than vanilla, allowing it to be
   * Press **`N`** to save the item directly to your Creative inventory tab for quick access.
 * **Client-Side Commands:** Custom utility commands based on ATE48's feature set (e.g., `/act head [user]`).
 * **Custom LAN Names:** Customize your LAN name with color codes and custom symbols *(symbols render if players have compatible fonts o algo)*.
-* **Auto-Translation:** Automatically translates client interfaces based on your active language pack. (Stat collector)
+* **Auto-Translation:** Automatically translates players messages for example.
+```text
+<player> 你好，我吃披萨
+Translation: Hello, i eat pizza
+```
+* **Language StringTranslator** Translates the usage on commands instead of being hardcoded via StatCollector.
 * **Modified default commands** I modified the `/scoreboard` to able to add prefix and suffix via `/scoreboard teams option prefix/suffix <team_name>`
 * **Server based commands** What I mean by _Server based commands_ is that `/op` `/deop``/ban` `/pardon` exists than just<br> Minecraft's good old `/kick` command.
 
