@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://files.catbox.moe/ml00sw.png" width="256" height="256" alt="ACT Logo made by ATE48 (NOT MINE)">
+ <img src="assets/logo.png" width="256" height="256" alt="ACT Logo made by ATE48 (NOT MINE)">
 </p>
 <p align="center">
  <a href="https://github.com/Numberoneguy/ActX/releases/">
