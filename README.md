@@ -29,5 +29,6 @@ ActX is a eaglercraft-client based on a curseforge mod ACT made by ATE48. While 
 - Change the gamerules since i added more and most of them are useful when making a parkour, pvp, etc.
 - Turn off `Glint rendering`, and `Weather rendering` to avoid more lag when it comes
 to low-end hardware like Chromebooks with bad CPUs (including GPU for the textures)
-- Make a overpowered diamond sword.
+- Use the client-side commands like `/act head <user>` to give you someone's head using `SkullOwner:*`, and `UUID:*`
+(most of them are modified so it can load up properly in eaglercraft.)
 ----
