@@ -32,3 +32,5 @@ to low-end hardware like Chromebooks with bad CPUs (including GPU for the textur
 - Use the client-side commands like `/act head <user>` to give you someone's head using `SkullOwner:*`, and `UUID:*`
 (most of them are modified so it can load up properly in eaglercraft.)
 ----
+
+*someone said i have to publish the src code because ATE48's curseforge mod has a* **LGPL License** *give me a moment then'll publish it (everything is saved locally meaning I don't have the src code in github)*
