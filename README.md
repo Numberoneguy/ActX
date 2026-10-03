@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/ACT_MOD-ATE48-green">
  </a>
  <a href="mailto:giovanni2023ve@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-%40giovanni2023ve.gmail.com-green?logo=gmail">
+  <img src="https://img.shields.io/badge/gmail-giovanni2023ve%40gmail.com-green?logo=gmail">
  </a>
 </p>
 
