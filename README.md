@@ -34,6 +34,6 @@ to low-end hardware like Chromebooks with bad CPUs (including GPU for the textur
 
 # ActX's source code.
 
-Here's the link leading to the source code of [ActX](https://github.com/Numberoneguy/ACTX-source-code)
+Here's the link leading to the source code of [ActX](https://github.com/Numberoneguy/ACTX-source-code)<br>
 This contains files of ****craft and some of the files i've modified.
 
