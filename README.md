@@ -18,7 +18,7 @@
 
 ## ActX.
 
-ActX is a eaglercraft client based on a *Curseforge* Mod (Advanced Creative Tab by ATE47) meaning that's where the name came from. 
+ActX is a eaglercraft client based and a ported Forge Mod (Advanced Creative Tab by ATE47).
 - `Act` stands for Advanced Creative Tab
 - `X` tells you that it's a eaglercraft client.<br>
 It`s very easy to understand the name of the client. This is a personal project i really felt like to make, nothing else.
