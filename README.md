@@ -32,8 +32,9 @@ It`s very easy to understand the name of the client. This is a personal project 
 - Use illegal characters in chat (paste § and it'll register without it being ignored but ofc it will kick you out if you try to send it.)
 - More FNAW Skins (for now there is just one custom FNAW Skins added)
 (1.12.2 u2)
-- focuses on porting simple forge mods, for instance, AppleSkin, ACT, Shulker box tooltip, and etc.
-- Ported the mod into 1.12.2
+- focuses on porting simple forge mods, for instance, AppleSkin, ACT, Shulker box tooltip (not included in the client), and etc.
+- ported more modssssss.
+- this project has forge patches.
 ## ActX's source code.
 
 Here's the link leading to the source code of [ActX](https://github.com/Numberoneguy/ACTX-source-code)<br>
